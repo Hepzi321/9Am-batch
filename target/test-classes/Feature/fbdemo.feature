@@ -4,7 +4,7 @@ Background:
 
 Given User launches the fb url
 
-@Outline
+
 Scenario: Login the facebook page
 
 
